@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# PLACEHOLDER: Replace with your actual domain
+Sitemap: https://www.themototirehub.gr/sitemap.xml
