@@ -16,12 +16,6 @@ cp .env.example .env
 
 # 3. Development server
 npm run dev
-
-# 4. Production build
-npm run build
-
-# 5. Preview του build
-npm run preview
 ```
 
 ---
